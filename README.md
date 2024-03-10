@@ -1,8 +1,7 @@
 
-https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/d252567b-363f-4c04-bccd-c539a4be4bad
+![Technology LinkedIn Banner 4](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/12a1a641-700b-4deb-82e8-49e27fddcfdb)
 
 💻 I’m currently working at Logicalis company. <br>
-📖 Just studying FSWD at EDIT School. <br>
 ⚡ Fun fact: age doesn't counts, it's just a slight detail.
 
 <div>
