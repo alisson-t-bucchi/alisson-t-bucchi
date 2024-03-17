@@ -3,8 +3,8 @@
 
 
 💻 I’m currently working at Logicalis company. <br>
-🧑‍💻 Experience with QA Tester and API Dev. 
-⚡ Fun fact: age doesn't counts, it's just a slight detail.
+🧑‍💻 Experience with QA Tester and API Dev. <br>
+⚡ Fun fact: age doesn't counts, it's just a slight detail. <br>
 
 [![](https://visitcount.itsvg.in/api?id=alisson-t-bucchii&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
