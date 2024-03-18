@@ -8,7 +8,7 @@
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   🛠️ Tools: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson-t-bucchi&theme=gruvbox&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson-t-bucchi&theme=tokionight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact)](https://github.com/alisson-t-bucchi/github-readme-stats)
   
 
