@@ -16,7 +16,7 @@
   <img align="centre" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=tokionight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact)](https://github.com/alisson-t-bucchi/github-readme-stats)
   
 
