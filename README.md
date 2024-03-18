@@ -7,8 +7,8 @@
 
 <div>
 <a href="https://beacons.ai/AliBucchi">
-<img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=outrun"/>
+<img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=outrun"/>
 </div>
     
 [![](https://visitcount.itsvg.in/api?id=alisson.t.bucchi&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
