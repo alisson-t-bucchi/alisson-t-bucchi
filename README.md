@@ -11,7 +11,7 @@
 <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)/>
 </div>
     
-[![](https://visitcount.itsvg.in/api?id=AliBucchi&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alisson.t.bucchi&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div style="display: inline_block"><br>
   <img align="centre" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
