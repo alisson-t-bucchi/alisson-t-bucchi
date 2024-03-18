@@ -5,9 +5,7 @@
 🧑‍💻 Experience with QA Tester and API Dev. <br>
 ⚡ Fun fact: age doesn't counts, it's just a slight detail. <br>
 
-<div> 
 [![](https://visitcount.itsvg.in/api?id=alisson-t-bucchii&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-</div>
 
 <div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
