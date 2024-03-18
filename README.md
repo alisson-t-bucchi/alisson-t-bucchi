@@ -16,8 +16,8 @@
   <img align="centre" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
 
 
-![Gabi GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabszeran&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabszeran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact)](https://github.com/alisson-t-bucchi/github-readme-stats)
   
 
 <div> 
