@@ -1,13 +1,14 @@
 
 ![Technology LinkedIn Banner 4](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/6e3cdf03-b273-4b34-904b-ed9e73c774ef)
 
-
 💻 I’m currently working at Logicalis company. <br>
 🧑‍💻 Experience with QA Tester and API Dev. <br>
-⚡ Fun fact: age doesn't counts, it's just a slight detail. 
-<br>
+⚡ Fun fact: age doesn't counts, it's just a slight detail. <br>
 
+<div> 
 [![](https://visitcount.itsvg.in/api?id=alisson-t-bucchii&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+</div>
+
 <div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   🛠️ Tools: 
