@@ -7,16 +7,8 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   🛠️ Tools: 
-  <img align="centre" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="centre" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="centre" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="centre" alt="selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="centre" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-  <img align="centre" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=tokionight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson-t-bucchi&theme=gothan&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact)](https://github.com/alisson-t-bucchi/github-readme-stats)
   
 
