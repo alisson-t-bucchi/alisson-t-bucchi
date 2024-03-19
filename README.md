@@ -11,7 +11,7 @@
 <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=merko"/>
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/{alisson-t-bucchi}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/alisson-t-bucchi/count.svg)
 
 [![](https://visitcount.itsvg.in/api?id=alisson-t-bucchi&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
