@@ -11,8 +11,6 @@
 <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=merko"/>
 </div>
 
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
-
 [![](https://visitcount.itsvg.in/api?id=alisson-t-bucchi&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div style="display: inline_block"><br>
