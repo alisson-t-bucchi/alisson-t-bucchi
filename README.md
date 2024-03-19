@@ -11,10 +11,10 @@
 <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=merko"/>
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/alisson-t-bucchi/count.svg)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=alisson&label=Profile%20Views&color=1&icon=6&pretty=true" />
+</a>
 
-[![](https://visitcount.itsvg.in/api?id=alisson-t-bucchi&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div style="display: inline_block"><br>
   <img align="centre" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="centre" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
