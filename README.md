@@ -19,8 +19,6 @@
   <img align="centre" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   <img align="centre" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
-    <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=alisson&label=Profile%20Views&color=1&icon=6&pretty=true" />
 </div>
 
 ##
@@ -30,5 +28,3 @@
   <a href = "mailto:alisson.bucchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alisson-t-bucchi-626a2120b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=alisson-t-bucchi&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
