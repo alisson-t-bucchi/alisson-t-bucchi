@@ -6,7 +6,6 @@
 ⚡ Fun fact: age doesn't counts, it's just a slight detail. <br>
 
 <div>
-<a href="https://beacons.ai/AliBucchi">
 <img height="125em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=merko"/>
 </div><br>
