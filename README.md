@@ -12,8 +12,6 @@
 </div>
   
 [![](https://visitcount.itsvg.in/api?id=alisson.t.bucchi&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
-🛠️ Tools:
 <div style="display: inline_block"><br>
   <img align="centre" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="centre" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
