@@ -1,5 +1,5 @@
 
-https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/3d64358c-8247-452a-b518-60686c89e046
+![Technology LinkedIn Banner 4](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/e1785e70-0303-4680-a0fb-893f18b32075)
 
 💻 I’m currently working at Logicalis company. <br>
 📖 A Full Stack Dev and QA Tester in progress... <br>
