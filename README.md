@@ -1,7 +1,7 @@
 
 ![Technology LinkedIn Banner 4](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/cbc68a13-3eb9-4d5a-b3d2-edc994ab6206)
 
-💻 <b> I’m hiring for work now and available for some tech company. </b><br>
+💻 <b> I’m open to work and available for some tech company. </b><br>
 📖 <b> A Full Stack Dev and QA Tester in progress... </b><br>
 ⚡ <b> Fun fact: age doesn't count, it's just a slight detail. </b><br>
 
