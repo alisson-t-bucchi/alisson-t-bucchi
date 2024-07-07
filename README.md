@@ -3,14 +3,14 @@
 
 💻 <b> I’m hiring for work now and available for some tech company. </b><br>
 📖 <b> A Full Stack Dev and QA Tester in progress... </b><br>
-⚡ <b> Fun fact: age doesn't counts, it's just a slight detail. </b><br>
+⚡ <b> Fun fact: age doesn't count, it's just a slight detail. </b><br>
 
 <div>
 <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=merko"/>
 </div><br>
 
-💻 Programming languages:
+💻 <b> Programming languages: </b>
 <div style="display: inline_block">
   <img align="centre" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="centre" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,7 +21,7 @@
   <img align="centre" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div><br>
 
-🛠️ Tools, frameworks and libraries:
+🛠️ <b> Tools, frameworks and libraries: </b>
 <div style="display: inline_block">
   <img align="centre" alt="Ts" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
   <img align="centre" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
