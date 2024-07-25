@@ -17,7 +17,7 @@
 ###
 
 💻 <b> Programming languages: </b>
-<div align="center" style="display: inline_block">
+<div align="left" style="display: inline_block">
   <img align="centre" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="centre" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="centre" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -30,7 +30,7 @@
 ###
 
 🛠️ <b> Tools, frameworks and libraries: </b>
-<div align="center" style="display: inline_block">
+<div align="left" style="display: inline_block">
   <img align="centre" alt="Ts" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
   <img align="centre" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="centre" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
