@@ -3,12 +3,16 @@
 
 💻 <b> I’m open to work and available for some tech company. </b><br>
 📖 <b> A Full Stack Dev and QA Tester in progress... </b><br>
-⚡ <b> Fun fact: age doesn't count, it's just a slight detail. </b><br>
+⚡ <b> Fun fact: age doesn't count, it's just a slight detail. </b><be>
+
+###
 
 <div>
 <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=merko"/>
-</div><br>
+</div><be>
+
+###
 
 💻 <b> Programming languages: </b>
 <div style="display: inline_block">
@@ -19,7 +23,9 @@
   <img align="centre" alt="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="centre" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="centre" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div><br>
+</div><be>
+
+###
 
 🛠️ <b> Tools, frameworks and libraries: </b>
 <div style="display: inline_block">
@@ -41,3 +47,10 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
