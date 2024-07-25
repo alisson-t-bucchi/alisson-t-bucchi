@@ -30,7 +30,7 @@
 ###
 
 🛠️ <b> Tools, frameworks and libraries: </b>
-<di align="center" style="display: inline_block">
+<div align="center" style="display: inline_block">
   <img align="centre" alt="Ts" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
   <img align="centre" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="centre" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
