@@ -4,7 +4,7 @@
 <div align="left">
 💻 <b> Always open to new challenges! </b><br>
 📖 <b> A Full Stack Dev and QA Tester in progress... </b><br>
-⚡ <b> Fun fact: age doesn't count, it's just a slight detail. </b><be>
+💡 <b> “The only way to do great work is to love what you do.” – Steve Jobs. </b><be>
 </div>
 
 ###
