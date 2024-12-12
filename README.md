@@ -49,15 +49,3 @@
   <a href="https://alissontbucchi.my.canva.site/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"></a>
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alisson-t-bucchi&theme=synthwave" alt="GitHub Streak" /></a>
-</div>
-
-###
-
