@@ -7,17 +7,15 @@
 📖 <b> A Full Stack Dev and QA Tester in progress... 🚀 </b><br>
 💡 <b> “The only way to do great work is to love what you do.” – Steve Jobs. </b><be>
 </div>
-#
 
 ##
 <div align="center">
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=merko"/>
 </div><be>
-##
 
 ###
-💻 <b> Programming languages: </b>
+💻 <b> - Programming languages: </b>
 <div align="left" style="display: inline_block">
   <img align="centre" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="centre" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,10 +25,9 @@
   <img align="centre" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="centre" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div><be>
-###
 
 ###
-🛠️ <b> Tools, frameworks and libraries: </b>
+🛠️ <b> + Tools, frameworks and libraries: </b>
 <div align="left" style="display: inline_block">
   <img align="centre" alt="Ts" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
   <img align="centre" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -40,7 +37,6 @@
   <img align="centre" alt="spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="centre" alt="Cucumber" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
 </div>
-###
 
 ####
 <div align="left">
