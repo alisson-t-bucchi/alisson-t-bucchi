@@ -6,11 +6,13 @@
 📖 <b> A Full Stack Dev and QA Tester in progress... 🚀 </b><br>
 💡 <b> “The only way to do great work is to love what you do.” – Steve Jobs. </b><br>
 </div>
+<be>
 
 <div align="center">
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=merko"/>
 </div>
+<be>
 
 #### 💻 <b> Programming languages: </b>
 <div align="left" style="display: inline_block">
@@ -22,6 +24,7 @@
   <img align="centre" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="centre" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
+<be>
 
 #### 🛠️ <b> Tools, frameworks and libraries: </b>
 <div align="left" style="display: inline_block">
@@ -33,6 +36,7 @@
   <img align="centre" alt="spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="centre" alt="Cucumber" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
 </div>
+<be>
 
 <div align="left">
   <a href = "mailto:alisson.t.bucchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
