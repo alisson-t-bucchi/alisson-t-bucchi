@@ -5,13 +5,13 @@
 💻 <b> Always open to new challenges! 🛫 </b><br>
 📘 <b> A Full Stack Dev and QA Tester in progress... 🚀 </b><br>
 💡 <b> “The only way to do great work is to love what you do.” – Steve Jobs. </b><br>
-</div>
-\ 
+</div><br>
+
 <div align="center">
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=merko"/>
-</div>
-\ 
+</div><br>
+
 #### 🖥️ <b> Programming languages: </b>
 <div align="left" style="display: inline_block">
   <img align="centre" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,8 +21,8 @@
   <img align="centre" alt="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="centre" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="centre" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
-\
+</div><br>
+
 #### 🛠️ <b> Tools, frameworks and libraries: </b>
 <div align="left" style="display: inline_block">
   <img align="centre" alt="Ts" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
@@ -32,8 +32,8 @@
   <img align="centre" alt="selenium" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="centre" alt="spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="centre" alt="Cucumber" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
-</div>
-\
+</div><br>
+
 <div align="left">
   <a href = "mailto:alisson.t.bucchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alisson-tex-bucchi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
