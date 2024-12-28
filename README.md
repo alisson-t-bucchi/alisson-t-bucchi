@@ -1,13 +1,15 @@
 
 ![Technology LinkedIn Banner 4](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/cbc68a13-3eb9-4d5a-b3d2-edc994ab6206)
 
+#
+
 <div align="left">
 💻 <b> Always open to new challenges! 🛫 </b><br>
 📖 <b> A Full Stack Dev and QA Tester in progress... 🚀 </b><br>
 💡 <b> “The only way to do great work is to love what you do.” – Steve Jobs. </b><be>
 </div>
 
-###
+##
 
 <div align="center">
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -42,8 +44,7 @@
 
 ###
 
-<div align="left"> 
-  <a href="https://www.instagram.com/being_dev_tech/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="left">
   <a href = "mailto:alisson.t.bucchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alisson-tex-bucchi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://alissontbucchi.my.canva.site/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"></a>
