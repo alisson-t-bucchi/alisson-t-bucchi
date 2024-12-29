@@ -8,7 +8,7 @@
   <p> Always open to new challenges! 🛫 </p>
 </div><br>
 
-## 💻 <b> Git Stats: <\b>
+## 💻 <b> Git Stats: </b>
 <div align="center">
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&langs_count=20&theme=merko"/>
