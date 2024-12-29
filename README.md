@@ -2,9 +2,10 @@
 
 ## 🙋‍♂️<b> About me! </b>
 <div align="left">
-  <p> Always open to new challenges! 🛫 </p>
-  <p> A Full Stack Dev and QA Tester in progress... 🚀 </p>
+  <p> QA Tester & Data Integration Developer <\p>
+  <p> A Full Stack Dev in progress... 🚀 </p>
   <p> “The only way to do great work is to love what you do.” – Steve Jobs. </p>
+  <p> Always open to new challenges! 🛫 </p>
 </div><br>
 
 <div align="center">
