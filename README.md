@@ -1,10 +1,8 @@
 ![Technology LinkedIn Banner 4](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/cbc68a13-3eb9-4d5a-b3d2-edc994ab6206)
 
-<div align="centre">
   <b> Always open to new challenges! 🛫 
     A Full Stack Dev and QA Tester in progress... 🚀
     “The only way to do great work is to love what you do.” – Steve Jobs. </b>
-</div><br>
 
 <div align="center">
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
