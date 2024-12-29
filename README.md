@@ -1,12 +1,12 @@
 ![Technology LinkedIn Banner 4](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/cbc68a13-3eb9-4d5a-b3d2-edc994ab6206)
 
 ## 🙋‍♂️<b> About me! </b>
-<div>
-  <p></p><b> QA Tester & Data Integration Developer. </b></p>
-  <p><b> A Full Stack Dev in progress... 🚀 </b></p>
-  <p><b> “The only way to do great work is to love what you do.” – Steve Jobs. </b></p>
-  <p><b> Always open to new challenges! 🛫 </b></p>
-</div><br>
+
+<p></p><b> QA Tester & Data Integration Developer. </b></p>
+<p><b> A Full Stack Dev in progress... 🚀 </b></p>
+<p><b> “The only way to do great work is to love what you do.” – Steve Jobs. </b></p>
+<p><b> Always open to new challenges! 🛫 </b></p>
+<br>
 
 ## 💻 <b> Git Stats: </b>
 <div align="center">
