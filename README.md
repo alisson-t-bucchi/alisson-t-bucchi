@@ -1,5 +1,6 @@
 ![Technology LinkedIn Banner 4](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/cbc68a13-3eb9-4d5a-b3d2-edc994ab6206)
 
+## 🙋‍♂️<b> About me! </b>
 <div align="left">
   <p> Always open to new challenges! 🛫 </p>
   <p> A Full Stack Dev and QA Tester in progress... 🚀 </p>
