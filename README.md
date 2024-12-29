@@ -4,7 +4,7 @@
   <b> Always open to new challenges! 🛫 
     A Full Stack Dev and QA Tester in progress... 🚀
     “The only way to do great work is to love what you do.” – Steve Jobs. </b>
-</div>
+</div><br>
 
 <div align="center">
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
