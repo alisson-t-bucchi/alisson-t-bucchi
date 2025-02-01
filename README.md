@@ -1,7 +1,8 @@
 ![Technology LinkedIn Banner 4](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/cbc68a13-3eb9-4d5a-b3d2-edc994ab6206)
 
 ## 🙋‍♂️<b> About me! </b>
-###[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=QA+Tester+and+Data+Integration+Developer;Full+Stack+Dev+in+progress...🚀)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=QA+Tester+and+Data+Integration+Developer;Full+Stack+Dev+in+progress...🚀)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=QA+Tester+and+Data+Integration+Developer;Full+Stack+Dev+in+progress...🚀)]
 ### <p> “The only way to do great work is to love what you do.” – Steve Jobs. </p>
 ### <p> Always open to new challenges! 🛫 </p>
 <br>
