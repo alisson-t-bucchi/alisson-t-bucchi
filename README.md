@@ -7,7 +7,7 @@
 ### <p> Always open to new challenges! 🛫 </p>
 <br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+dev+student!)]
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+QA+Tester+&+Data+Integration+Developer+,+Full+Stack+Dev+in+progress...)]
 
 ## 💻 <b> Git Stats: </b>
 <div align="center">
