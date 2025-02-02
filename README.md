@@ -5,7 +5,7 @@
 
 <div align="center">
   <p><strong> “The only way to do great work is to love what you do.” – Steve Jobs. </strong></p>
-  <p> Always open to new challenges! 🛫 </p>
+  <p><strong> Always open to new challenges! 🛫 </strong></p>
 </div>
 
 ## 💻 <b> Git Stats: </b>
