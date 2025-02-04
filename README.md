@@ -4,8 +4,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=QA+Tester+and+Data+Integration+Developer.;Full+Stack+Dev+in+progress...🚀)
 
 <div align="center">
-  <p height="30"><strong>💡 “The only way to do great work is to love what you do.” – Steve Jobs. </strong></p>
-  <p height="30"><strong> Always open to new challenges! 🛫 </strong></p>
+  <p height="50"><strong>💡 “The only way to do great work is to love what you do.” – Steve Jobs. </strong></p>
+  <p height="50"><strong> Always open to new challenges! 🛫 </strong></p>
 </div>
 
 ## 💻 <b> Git Stats: </b>
