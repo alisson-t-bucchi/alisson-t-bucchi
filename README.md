@@ -3,10 +3,8 @@
 ## 🙋‍♂️<b> About me! </b>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=QA+Tester+and+Data+Integration+Developer.;Full+Stack+Dev+in+progress...🚀)
 
-<div align="center">
-  <p><span style="font-size: 100px;">💡 “The only way to do great work is to love what you do.” – Steve Jobs. </span></p>
-  <p><strong> Always open to new challenges! 🛫 </strong></p>
-</div>
+## <p>💡 “The only way to do great work is to love what you do.” – Steve Jobs. </p>
+## <p> Always open to new challenges! 🛫 </p>
 
 ## 💻 <b> Git Stats: </b>
 <div align="center">
