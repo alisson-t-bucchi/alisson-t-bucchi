@@ -4,7 +4,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=QA+Tester+and+Data+Integration+Developer.;Full+Stack+Dev+in+progress...🚀)
 
 ### <p>💡 “The only way to do great work is to love what you do.” – Steve Jobs. </p>
-### <p> Always open to new challenges! 🛫 </p>
+### <p>🎒 Always open to new challenges! 🛫 </p>
+
 
 ## 💻 <b> Git Stats: </b>
 <div align="center">
