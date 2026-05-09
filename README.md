@@ -4,10 +4,10 @@
 
 ## 🧠 About Me
 
-- 🤖 QA Automation Engineer with focus on **quality, reliability and scalability**
+- 🤖 QA Automation Engineer focused on **quality, reliability and scalability**
 - 📊 Exploring **AI, Machine Learning and Data Science applied to QA**
-- 💻 Building skills in **Full Stack Development**
-- 🚀 Always open to new challenges and international opportunities
+- 💻 Developing skills in **Full Stack Development**
+- 🚀 Open to new challenges and international opportunities
 
 > 💡 *“The only way to do great work is to love what you do.”* – Steve Jobs
 
@@ -15,56 +15,52 @@
 
 ## 🔥 Featured Projects
 
-### 🧪 QA Automation Framework
-- 🔧 Stack: Cypress + Jest + CI/CD
-- 📊 Automated test coverage: 85%+
-- ⚡ Reduced regression testing time by ~60%
-- 🔗 [View Repository](https://github.com/alisson-t-bucchi/your-repo)
+### 🧪 QA Automation Framework (AmbevTech Challenge)
+- 🔧 Stack: Cypress + JavaScript + Cucumber (BDD)
+- 🧩 Architecture: Page Object Model (POM)
+- 🌐 UI and API testing (REST)
+- 🧪 E2E scenarios covering login, registration and product flows
+- 📌 Emphasis on test structure, reusability and documentation  
+- 🔗 [View Repository](https://github.com/alisson-t-bucchi/qa-skill-test-ambevtech)
 
 ---
 
-### 🤖 AI-Powered Test Analysis
-- 🧠 Using Python + Machine Learning to detect flaky tests
-- 📉 Reduced false positives in automated pipelines
-- 📊 Data-driven insights for QA decision-making
-- 🔗 [View Repository](https://github.com/alisson-t-bucchi/your-repo)
+### 🤖 Cost of Living AI/ML Predictor
+- 🧠 Built with Python, Pandas and Scikit-learn
+- 📊 Predicts cost of living using real-world datasets
+- 🔎 Includes data preprocessing and model training pipeline
+- 📈 Focus on regression models and data analysis
+- 🔗 [View Repository](https://github.com/alisson-t-bucchi/cost-of-living-ai-ml)
 
 ---
 
-### 🌐 Full Stack Testing Project
-- ⚛️ React + MongoDB + API testing
-- 🧪 End-to-end testing with Selenium & Cucumber
-- 🔄 Integrated QA pipeline with automated reports
-- 🔗 [View Repository](https://github.com/alisson-t-bucchi/your-repo)
+### 🌐 Hotel Booking Frontend (React)
+- ⚛️ Built with React (component-based architecture)
+- 🧩 Simulates a hotel booking interface
+- 🔄 Focus on UI structure and user experience
+- 🧪 Suitable for E2E testing with Cypress or Selenium
+- 🔗 [View Repository](https://github.com/alisson-t-bucchi/hotel-booking-react-js)
 
 ---
 
 ## 📈 QA Metrics & Impact
 
-- ✅ +500 automated test cases created
-- 📉 ~60% reduction in manual regression effort
-- ⚡ CI pipelines execution time optimized
-- 🐞 Early bug detection increased significantly
-- 📊 Test coverage consistently above 80%
+- ✅ 50+ automated test cases implemented
+- 📉 Reduced manual regression effort
+- ⚡ Improved test execution workflow
+- 🐞 Early bug detection through automation
+- 📊 Consistent test structure and coverage practices
 
 ---
 
-## 🤖 AI + QA Experiments
+## 🤖 AI + QA (In Progress)
 
-- 🧠 Machine Learning models for:
-  - Flaky test detection
-  - Test prioritization
-  - Failure pattern analysis
+- 🧠 Studying Machine Learning applications in QA
+- 📊 Working with datasets for test analysis
+- 🔎 Exploring anomaly detection in test results
 
-- 📊 Data pipelines for QA analytics:
-  - Test execution logs
-  - Error clustering
-  - Performance trends
-
-- 🚀 Goal:
+- 🎯 Goal:
   → Transform QA into a **data-driven engineering discipline**
-
----
 
 ## 📊 GitHub Stats
 
