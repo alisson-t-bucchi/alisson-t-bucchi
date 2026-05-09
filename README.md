@@ -62,6 +62,8 @@
 - 🎯 Goal:
   → Transform QA into a **data-driven engineering discipline**
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
