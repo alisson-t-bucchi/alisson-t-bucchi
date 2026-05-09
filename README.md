@@ -1,7 +1,5 @@
 ![Banner](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/cbc68a13-3eb9-4d5a-b3d2-edc994ab6206)
 
-# 👋 Hi, I'm Alisson
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=28&width=900&lines=QA+Automation+Engineer;AI+%26+Data+Enthusiast;Full+Stack+Developer+in+progress)
 
 ---
