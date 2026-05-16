@@ -1,6 +1,6 @@
 ![Banner](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/cbc68a13-3eb9-4d5a-b3d2-edc994ab6206)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=false&vCenter=true&width=1000&lines=🤖+QA+Automation+Engineer+focused+on+quality,+reliability+and+scalability;📊+Exploring+AI,+Machine+Learning+and+Data+Science+applied+to+QA)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=false&vCenter=true&width=1000&lines=🤖+QA+Automation+Engineer+focused+on+quality,+and+scalability;📊+Exploring+AI,+Machine+Learning+and+Data+Science+applied+to+QA;💻Developing+skills+in+Full+Stack+Development;🚀Open+to+new+challenge+and+international+opportunities)
 
 ## 🧠 About Me
 
