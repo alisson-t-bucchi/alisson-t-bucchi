@@ -4,6 +4,8 @@
 
 ## 🧠 About Me
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=false&vCenter=true&width=1000&lines=🤖 QA Automation Engineer focused on **quality, reliability and scalability**;📊 Exploring **AI, Machine Learning and Data Science applied to QA**;💻 Developing skills in **Full Stack Development**;🚀 Open to new challenges and international opportunities)
+
 - 🤖 QA Automation Engineer focused on **quality, reliability and scalability**
 - 📊 Exploring **AI, Machine Learning and Data Science applied to QA**
 - 💻 Developing skills in **Full Stack Development**
