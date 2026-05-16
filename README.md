@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=false&vCenter=true&width=1000&lines=🤖+QA+Automation+Engineer+focused+on+quality+and+scalability;📊+Exploring+AI+applied+to+QA;💻Developing+skills+in+Full+Stack+Dev;🚀Open+to+international+opportunities)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=false&vCenter=true&width=2000&lines=🤖+QA+Automation+Engineer+focused+on+quality+and+scalability;📊+Exploring+AI+applied+to+QA;💻Developing+skills+in+Full+Stack+Dev;🚀Open+to+international+opportunities)
 > 💡 *“The only way to do great work is to love what you do.”* – Steve Jobs
 
 ---
