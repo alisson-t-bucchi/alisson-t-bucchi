@@ -174,9 +174,3 @@ Currently working on projects involving:
 
 ---
 
-<p align="center">
-
-*"Building confidence through software quality and trusted data."*
-
-</p>
-
