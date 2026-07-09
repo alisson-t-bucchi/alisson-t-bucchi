@@ -1,60 +1,54 @@
-![Banner](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/cbc68a13-3eb9-4d5a-b3d2-edc994ab6206)
+<h1 align="center">Hi 👋, I'm Alisson Bucchi</h1>
 
-## 🧠 About Me
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=false&vCenter=true&width=1500&lines=🚀+QA+Automation+%26+Data+Quality+Engineer;🐍+Building+reliable+software+and+trusted+data;📊+Specializing+in+ETL+Testing,+Python,+SQL+and+Data+Validation;⚙️+Exploring+Airflow,+Great+Expectations+and+Modern+Data+Engineering)
+<p align="center">
+QA Automation & Data Quality Engineer
+</p>
 
-> 💡 *“The only way to do great work is to love what you do.”* – Steve Jobs
+<p align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=QA+Automation+%26+Data+Quality+Engineer;Building+Reliable+Software+and+Trusted+Data;Python+•+SQL+•+ETL+Testing+•+Test+Automation;Learning+Apache+Airflow+•+Great+Expectations+•+dbt" />
 
-## 🔥 Featured Projects
-
-### 🧪 QA Automation Framework (AmbevTech Challenge)
-- 🔧 Stack: Cypress + JavaScript + Cucumber (BDD)
-- 🧩 Architecture: Page Object Model (POM)
-- 🌐 UI and API testing (REST)
-- 🧪 E2E scenarios covering login, registration and product flows
-- 📌 Emphasis on test structure, reusability and documentation  
-- 🔗 [View Repository](https://github.com/alisson-t-bucchi/qa-skill-test-ambevtech)
+</p>
 
 ---
 
-### 🤖 Cost of Living AI/ML Predictor
-- 🧠 Built with Python, Pandas and Scikit-learn
-- 📊 Predicts cost of living using real-world datasets
-- 🔎 Includes data preprocessing and model training pipeline
-- 📈 Focus on regression models and data analysis
-- 🔗 [View Repository](https://github.com/alisson-t-bucchi/cost-of-living-ai-ml)
+## 🚀 QA Automation & Data Quality Engineer
+
+I'm a QA Automation Engineer with experience designing reliable test automation frameworks and validating software quality across web applications and APIs.
+
+Currently expanding my expertise into **Data Quality Engineering**, focusing on ETL validation, data testing and modern data engineering practices.
+
+- ✔ Test Automation
+- ✔ API Testing
+- ✔ ETL Validation
+- ✔ Python
+- ✔ SQL
+- ✔ Data Quality
+- ✔ CI/CD
 
 ---
 
-### 🌐 Hotel Booking Frontend (React)
-- ⚛️ Built with React (component-based architecture)
-- 🧩 Simulates a hotel booking interface
-- 🔄 Focus on UI structure and user experience
-- 🧪 Suitable for E2E testing with Cypress or Selenium
-- 🔗 [View Repository](https://github.com/alisson-t-bucchi/hotel-booking-react-js)
+# 🏅 Badges
 
----
+<p align="center">
 
-## 📈 QA Metrics & Impact
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-- ✅ 50+ automated test cases implemented
-- 📉 Reduced manual regression effort
-- ⚡ Improved test execution workflow
-- 🐞 Early bug detection through automation
-- 📊 Consistent test structure and coverage practices
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright"/>
 
-## 🤖 AI + QA (In Progress)
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress"/>
 
-- 🧠 Studying Machine Learning applications in QA
-- 📊 Working with datasets for test analysis
-- 🔎 Exploring anomaly detection in test results
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium"/>
 
-- 🎯 Goal:
-  → Transform QA into a **data-driven engineering discipline**
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+</p>
 
 ---
 
