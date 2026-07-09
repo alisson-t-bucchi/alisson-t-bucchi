@@ -89,8 +89,8 @@ Currently expanding my expertise into **Data Quality Engineering**, focusing on 
 # 📊 GitHub Stats
 
 <p align="center">
-  
-  <img height="170" src="https://github-readme-stats-git-master-alisson-bucchis-projects.vercel.app/api?username=alisson-t-bucchi"/>
+
+<img height="170" src="https://github-readme-stats-git-master-alisson-bucchis-projects.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </p>
 
