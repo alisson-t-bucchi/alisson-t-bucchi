@@ -62,8 +62,7 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&theme=merko&hide_border=true"/>
-</div>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=alisson-t-bucchi&theme=merko&hide_border=true)
 
 ---
 
