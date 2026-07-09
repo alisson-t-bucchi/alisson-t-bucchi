@@ -76,23 +76,10 @@ Currently expanding my expertise into **Data Quality Engineering**, focusing on 
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Metrics
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alisson-t-bucchi&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats-git-master-alisson-bucchis-projects.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-
+  <img src="https://metrics.lecoq.io/alisson-t-bucchi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&followup=1&stars=1&people=1&theme=github_dark&config.timezone=America/Sao_Paulo" />
 </p>
 
 ---
@@ -100,19 +87,25 @@ Currently expanding my expertise into **Data Quality Engineering**, focusing on 
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alisson-t-bucchi&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=alisson-t-bucchi&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 📈 Summary Cards
 
 <p align="center">
-  
-  <img src="https://metrics.lecoq.io/alisson-t-bucchi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&followup=1&stars=1&people=1&theme=github_dark&config.timezone=America/Sao_Paulo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisson-t-bucchi&theme=github_dark"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisson-t-bucchi&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alisson-t-bucchi&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alisson-t-bucchi&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alisson-t-bucchi&theme=github_dark&utcOffset=3"/>
 </p>
 
 ---
