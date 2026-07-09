@@ -18,13 +18,13 @@ I'm a QA Automation Engineer with experience designing reliable test automation 
 
 Currently expanding my expertise into **Data Quality Engineering**, focusing on ETL validation, data testing and modern data engineering practices.
 
-- ✔ Test Automation
-- ✔ API Testing
-- ✔ ETL Validation
-- ✔ Python
-- ✔ SQL
-- ✔ Data Quality
-- ✔ CI/CD
+✔ Test Automation
+✔ API Testing
+✔ ETL Validation
+✔ Python
+✔ SQL
+✔ Data Quality
+✔ CI/CD
 
 ---
 
@@ -90,7 +90,7 @@ Currently expanding my expertise into **Data Quality Engineering**, focusing on 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-q3c0qhcxh-alisson-bucchis-projects.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </p>
 
