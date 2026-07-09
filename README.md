@@ -110,8 +110,8 @@ Currently expanding my expertise into **Data Quality Engineering**, focusing on 
 # 💻 Most Used Languages
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats-git-master-alisson-bucchis-projects.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+  
+  <img src="https://metrics.lecoq.io/alisson-t-bucchi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&followup=1&stars=1&people=1&theme=github_dark&config.timezone=America/Sao_Paulo" />
 
 </p>
 
