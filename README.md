@@ -1,7 +1,9 @@
 ![Banner](https://github.com/alisson-t-bucchi/alisson-t-bucchi/assets/162882339/cbc68a13-3eb9-4d5a-b3d2-edc994ab6206)
 
 ## 🧠 About Me
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=false&vCenter=true&width=1500&lines=🚀+QA+Automation+%26+Data+Quality+Engineer;🐍+Building+reliable+software+and+trusted+data;📊+Specializing+in+ETL+Testing,+Python,+SQL+and+Data+Validation;⚙️+Exploring+Airflow,+Great+Expectations+and+Modern+Data+Engineering)
 
+## 🧠 About Me
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=false&vCenter=true&width=1500&lines=🤖+QA+Automation+Engineer+focused+on+quality+and+scalability;📊+Exploring+AI,+Data+Science+and+Machine+Learning+applied+to+QA;💻+Developing+skills+in+Full+Stack+Dev;🚀+Open+to+new+challenges+and+international+opportunities!)
 > 💡 *“The only way to do great work is to love what you do.”* – Steve Jobs
 
