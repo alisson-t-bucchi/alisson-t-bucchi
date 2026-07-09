@@ -174,18 +174,6 @@ Currently working on projects involving:
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alisson-t-bucchi&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-t-bucchi&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 <p align="center">
 
 *"Building confidence through software quality and trusted data."*
