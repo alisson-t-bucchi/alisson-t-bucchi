@@ -19,11 +19,17 @@ I'm a QA Automation Engineer with experience designing reliable test automation 
 Currently expanding my expertise into **Data Quality Engineering**, focusing on ETL validation, data testing and modern data engineering practices.
 
 ✔ Test Automation
+
 ✔ API Testing
+
 ✔ ETL Validation
+
 ✔ Python
+
 ✔ SQL
+
 ✔ Data Quality
+
 ✔ CI/CD
 
 ---
