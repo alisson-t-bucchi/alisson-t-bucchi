@@ -16,7 +16,7 @@
 <p align="center">
 
   <a href="https://alisson-t-bucchi.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-121212?style=rounded&logo=portfolio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-121212?style=rounded&logo=vercel&logoColor=white"/>
   </a>
   
   <a href="https://www.linkedin.com/in/alisson-t-bucchi" target="_blank">
