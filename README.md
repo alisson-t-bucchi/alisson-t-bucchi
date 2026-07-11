@@ -32,7 +32,7 @@ I'm a QA Automation Engineer with experience building scalable automation framew
 
 I'm currently applying the same engineering mindset to **Data Quality Engineering**, focusing on ETL validation, automated data testing and reliable data pipelines.
 
-I enjoy designing solutions that improve confidence in both software and the data that drives business decisions.
+My goal is to bridge Software Quality and Data Engineering by building reliable systems and trustworthy data platforms.
 
 ---
 
