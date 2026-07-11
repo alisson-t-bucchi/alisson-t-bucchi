@@ -7,7 +7,7 @@ QA Automation Engineer • Data Quality Engineering
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains Mono&size=40&duration=3500&pause=1200&color=800080&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Data+Quality+&+Analytics;Building+Reliable+Software+and+Trusted+Data;Python+•+SQL+•+ETL+Validation;Continuous+Learning+•+Continuous+Improvement"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3500&pause=1200&color=800080&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Data+Quality+&+Analytics;Building+Reliable+Software+and+Trusted+Data;Python+•+SQL+•+ETL+Validation;Continuous+Learning+•+Continuous+Improvement"/>
 
 </p>
 
