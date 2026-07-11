@@ -9,7 +9,7 @@
 
 <p align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=25&duration=3500&pause=1200&color=800080&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Data+Quality+&+Analytics;Building+Reliable+Software+and+Trusted+Data;Python+•+SQL+•+ETL+Validation;Continuous+Learning+•+Continuous+Improvement"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=25&duration=3500&pause=1200&color=800080&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Data+Quality+&+Analytics;Building+Reliable+Software+and+Trusted+Data;Python+•+SQL+•+ETL+Validation"/>
 
 </p>
 
@@ -63,34 +63,6 @@ My goal is to bridge Software Quality and Data Engineering by building reliable 
 
 ✔ Learn continuously.
 
----
-
-# 💼 Core Competencies
-
-### QA Automation
-
-- UI Test Automation
-- API Testing
-- Test Framework Design
-- Continuous Testing
-- Regression Automation
-
-### Data Quality
-
-- ETL Validation
-- SQL Data Validation
-- Automated Data Testing
-- Great Expectations
-- Data Pipeline Validation
-
-### Engineering
-
-- Python
-- SQL
-- Git
-- Docker
-- GitHub Actions
-- AWS
 
 ---
 
