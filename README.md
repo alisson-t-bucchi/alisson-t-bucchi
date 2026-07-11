@@ -13,6 +13,10 @@
 
 </p>
 
+<a href="https://alisson-t-bucchi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-121212?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/alisson-t-bucchi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
