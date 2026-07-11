@@ -15,15 +15,15 @@
 
 <p align="center">
 
-  <a href="https://alisson-t-bucchi.vercel.app/">
+  <a href="https://alisson-t-bucchi.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-121212?style=rounded&logo=portfolio&logoColor=white"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/alisson-t-bucchi">
+  <a href="https://www.linkedin.com/in/alisson-t-bucchi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=rounded&logo=linkedin&logoColor=white"/>
   </a>
 
-<a href="mailto:alisson.t.bucchi@gmail.com">
+<a href="mailto:alisson.t.bucchi@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-EA4335?style=rounded&logo=gmail&logoColor=white"/>
 </a>
 
