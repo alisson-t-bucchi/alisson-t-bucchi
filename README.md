@@ -94,69 +94,23 @@ My goal is to bridge Software Quality and Data Engineering by building reliable 
 
 ---
 
-# 🛠 Tech Stack
+## 🧰 Engineering Toolkit
 
-## Languages
+**Languages**
 
-<p>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+Python • SQL • Java • TypeScript
 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>  
+**Test Automation**
 
-</p>
+Playwright • Selenium • Cypress • Robot Framework
 
----
+**Data Quality**
 
-## Test Automation
+Great Expectations • PostgreSQL • Apache Airflow • dbt
 
-<p>
-  
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright"/>
-  
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium"/>
-  
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress"/>
-  
-  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge"/>
+**DevOps & Cloud**
 
-</p>
-
----
-
-## Data Engineering
-
-<p>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/Great_Expectations-5A2CA0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
-
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-
-</p>
-
----
-
-## DevOps & Cloud
-
-<p>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-
-</p>
+Docker • GitHub Actions • AWS
 
 ---
 
