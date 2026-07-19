@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  QA Automation Engineer • Data Quality Engineering
+  QA Automation & Data Quality Engineering
 </h3>
 
 <p align="center">
